@@ -1,6 +1,6 @@
 #!/bin/sh
 
-/configure.sh ${ZOOKEEPER_SERVICE_HOST:-$1} ${NIMBUS_SERVICE_HOST:-$2}
+/configure.sh ${STORM_ZOOKEEPER_SERVICE_HOST:-$1} ${STORM_NIMBUS_SERVICE_HOST:-$2}
 
 mkdir -p /opt/apache-storm/logs
 touch /opt/apache-storm/ui.log
