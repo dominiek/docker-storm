@@ -1,4 +1,4 @@
-FROM mattf/storm-base
+FROM dominiek/storm-base
 
 MAINTAINER Matthew Farrellee <matt@cs.wisc.edu>
 
