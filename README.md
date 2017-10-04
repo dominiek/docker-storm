@@ -4,13 +4,13 @@ Based on [Matthew Farrellee's Docker Images](github.com/mattf/docker-storm)
 
 Current Storm Version: `1.1.1`
 
-# Build Images
+## Build Images
 
 ```
 make
 ```
 
-# Container Configuration
+## Container Configuration
 
 The following environment variables are available currently:
 
