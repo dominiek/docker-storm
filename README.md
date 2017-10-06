@@ -4,6 +4,14 @@ Based on [Matthew Farrellee's Docker Images](github.com/mattf/docker-storm)
 
 Current Storm Version: `1.1.1`
 
+## Pull Images
+
+```
+docker pull dominiek/storm-nimbus
+docker pull dominiek/storm-worker
+docker pull dominiek/storm-ui
+```
+
 ## Build Images
 
 ```
